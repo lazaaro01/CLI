@@ -1,0 +1,8 @@
+services:
+  whatsapp-cli:
+    build: .
+    image: whatsapp-cli
+    volumes:
+      - ./session:/app/session
+    stdin_open: true
+    tty: true
