@@ -1,0 +1,18 @@
+# Binary
+whatsapp-cli
+whatsapp-cli.exe
+
+# Session (contains credentials)
+session/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp / Build
+dist/
+vendor/
+*.log
+.DS_Store
