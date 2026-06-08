@@ -10,9 +10,9 @@ Envie mensagens do WhatsApp direto do terminal usando o protocolo Multi-Device.
 ## Instalação
 
 ```bash
-git clone <repo-url> whatsapp-cli
-cd whatsapp-cli
-go build -o whatsapp-cli .
+git clone https://github.com/lazaaro01/CLI
+cd CLI
+go build -o CLI .
 ```
 
 ## Uso
